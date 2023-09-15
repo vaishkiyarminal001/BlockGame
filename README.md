@@ -2,7 +2,7 @@
 
 Play the classic Block game right in your browser!
 
-<img align="right" alt="Coding" width="100%" src="/Block Game.png"><br>
+<img align="right" alt="Coding" width="100%" src="/BlockGame.png"><br>
 
 ## About
 This project is a simple implementation of the popular Block game using HTML, CSS, JavaScript, and the HTML5 canvas element. It's a fun and addictive game that challenges your reflexes and puzzle-solving skills.
